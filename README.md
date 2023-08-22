@@ -22,7 +22,7 @@ I'm a frontend developer with a knack for creating engaging and user-friendly we
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/merab-tskhvedadze/]
+- 💼 LinkedIn: https://www.linkedin.com/in/merab-tskhvedadze/
 - 📧 Email: merabi.tskhvedadze@gmail.com
 
 ## ⭐ Let's Collaborate
