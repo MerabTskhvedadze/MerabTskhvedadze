@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Merab Tskhvedadze 👋</h1>
 
-<h3>
+<h4>
   I'm a frontend developer with a knack for creating engaging and user-friendly web interfaces. With a keen eye for design and a love for clean code, I'm dedicated   to crafting seamless digital experiences.
-</h3>
+</h4>
 
 ### 🚀 What I Do
 
