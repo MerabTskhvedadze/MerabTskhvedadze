@@ -5,7 +5,7 @@ I'm a frontend developer with a knack for creating engaging and user-friendly we
 ## 🚀 What I Do
 
 - Transforming ideas into functional and visually appealing websites.
-- Specializing in HTML, CSS, and JavaScript, TypeScript, with a focus on React.
+- Specializing in HTML, CSS, and JavaScript/TypeScript, with a focus on React.
 - Committed to responsive design and cross-browser compatibility.
 
 ## 🌟 What Sets Me Apart
