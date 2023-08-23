@@ -10,7 +10,7 @@
 - Specializing in HTML, CSS, and JavaScript/TypeScript, with a focus on React.
 - Committed to responsive design and cross-browser compatibility.
 
-### 🌟 Github stats
+### 🌟 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MerabTskhvedadze&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerabTskhvedadze&layout=compact)
 
