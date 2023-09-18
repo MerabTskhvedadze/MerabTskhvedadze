@@ -48,8 +48,8 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-&logo=linkedin)](https://www.linkedin.com/in/merab-tskhvedadze/)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat-&logo=gmail)](mailto:merabi.tskhvedadze@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-&logo=linkedin)](https://www.linkedin.com/in/merab-tskhvedadze/)
+- [![Gmail](https://img.shields.io/badge/Gmail-white?style=flat-&logo=gmail)](mailto:merabi.tskhvedadze@gmail.com)
 
 ## ⭐ Let's Collaborate
 
