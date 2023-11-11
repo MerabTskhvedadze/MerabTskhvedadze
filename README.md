@@ -18,7 +18,6 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-&logo=html5)
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-&logo=jquery)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-&logo=material-ui)
 ![OOP](https://img.shields.io/badge/-OOP-brightgreen?style=flat-)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-&logo=bootstrap)
